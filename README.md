@@ -10,17 +10,17 @@
 
 <!-- Intro -->
 I’m a **.NET developer** (learning **React** for frontend), comfortable with **Java**, **Flutter**, and **DSA**.  
-Currently working at **Programmers.ai** (learning in public). I enjoy building clean backends, fast frontends, and shipping features end-to-end.  
+Currently working at **Programmers.ai** as Software Engineer. I enjoy building clean backends, fast frontends, and shipping features end-to-end.  
 If I’m not coding, I’m probably debugging and laughing at tiny bugs 😄
 
 ---
 
 ## 🚀 What I’m Doing
 - 🔭 Working on: **Intellectra AI**
-- 🌱 Learning: **Python**, **DevOps** (CI/CD, Docker, basic cloud)
+- 🌱 Learning: **React**, **DevOps** (CI/CD, Docker, basic cloud)
 - 👨‍💻 Portfolio: **[priyanshucodess.github.io/CurrentPortfolio](https://priyanshucodess.github.io/CurrentPortfolio/)**
-- 💬 Ask me about: **Flutter**, **Java**
-- 📫 Reach me: **priyanshusaraswatcr7@gmail.com**
+- 💬 Ask me about: **Flutter**, **Java** , **Dotnet**, **React**
+- 📫 Reach me: **priyanshu.saraswat0208@outlook.com**
 - 📄 Resume: **[Same as portfolio link](https://priyanshucodess.github.io/CurrentPortfolio/)**
 
 ---
